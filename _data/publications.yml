@@ -5,21 +5,13 @@ main:
     journal_short: arXiv
     journal: arXiv:2602.05294v2 [math-ph]
     pdf: https://arxiv.org/pdf/2602.05294v2
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
-    # notes: Early Accept
 
   - title: Extended regime of nematic order in an interacting monomer-dimer model of Heilmann and Lieb
     authors: <strong>Qidong He</strong>
     journal_short: arXiv
     journal: arXiv:2511.23437v2 [math-ph]
     pdf: https://arxiv.org/pdf/2511.23437v2
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
 
   - title: Liquid-vapor transition in a model of a continuum particle system with finite-range modified Kac pair potential
     authors: <strong>Qidong He</strong>, Ian Jauslin, Joel Lebowitz, Ron Peled
@@ -30,58 +22,31 @@ main:
   - title: Upper bounds for the connective constant of weighted self-avoiding walks
     authors: <strong>Qidong He</strong>
     journal_short: J. Phys. A
-    journal: "Journal of Physics A: Mathematical and Theoretical"
+    journal: "Journal of Physics A: Mathematical and Theoretical, 2025."
     pdf: https://doi.org/10.1088/1751-8121/ae280e
 
-# @article{he2025upperboundsconnectiveconstant,
-#       title={Upper bounds for the connective constant of weighted self-avoiding walks}, 
-#       author={Qidong He},
-#       journal = {Journal of Physics A: Mathematical and Theoretical},
-# 	number = {50},
-# 	volume = {58},
-#     pages = {5003},
-# 	year = {2025},
-#     doi = {10.1088/1751-8121/ae280e}}
+  - title: Analyticity for locally stable hard-core gases via recursion
+    authors: <strong>Qidong He</strong>
+    journal_short: JSP
+    journal: Journal of Statistical Physics, 2025.
+    pdf: https://doi.org/10.1007/s10955-025-03435-8
 
-# @article{H25,
-# 	author = {He, Qidong},
-# 	id = {He2025},
-# 	journal = {Journal of Statistical Physics},
-# 	number = {4},
-# 	pages = {46},
-# 	title = {Analyticity for Locally Stable Hard-Core Gases Via Recursion},
-# 	volume = {192},
-# 	year = {2025},
-#     doi = {10.1007/s10955-025-03435-8}}
+  - title: High-fugacity expansion and crystallization in non-sliding hard-core lattice particle models without a tiling constraint
+    authors: <strong>Qidong He</strong>, Ian Jauslin
+    journal_short: JSP
+    journal: Journal of Statistical Physics, 2024.
+    pdf: https://doi.org/10.1007/s10955-024-03349-x
 
-# @article{HJ24,
-# 	author = {He, Qidong and Jauslin, Ian},
-# 	journal = {Journal of Statistical Physics},
-# 	number = {10},
-# 	pages = {135},
-# 	title = {High-Fugacity Expansion and Crystallization in Non-sliding Hard-Core Lattice Particle Models Without a Tiling Constraint},
-# 	volume = {191},
-# 	year = {2024},
-#     doi = {10.1007/s10955-024-03349-x}}
+  - title: Counting conjugacy classes of elements of finite order in exceptional Lie groups
+    authors: Tamar Friedmann, <strong>Qidong He</strong>
+    journal_short: CT
+    journal: Combinatorial Theory, 2024.
+    pdf: https://doi.org/10.5070/C64163850
+    notes: Undergraduate research
 
-# @article{FH24,
-# 	author = {{Friedmann}, Tamar and {He}, Qidong},
-# 	journal = {Combinatorial Theory},
-# 	number = {1},
-# 	title = {{Counting conjugacy classes of elements of finite order in exceptional Lie groups}},
-# 	volume = {4},
-# 	year = {2024},
-#     note = {Undergraduate research},
-#     doi = {10.5070/C64163850}}
-
-# @article{HT23,
-# 	author = {He, Qidong and Taylor, Scott A},
-# 	journal = {Journal of the Mathematical Society of Japan},
-# 	number = {1},
-# 	pages = {73--111},
-# 	publisher = {The Mathematical Society of Japan},
-# 	title = {Links, bridge number, and width trees},
-# 	volume = {75},
-# 	year = {2023},
-#     note = {Undergraduate research},
-#     doi = {10.2969/jmsj/86158615}}
+  - title: Links, bridge number, and width trees
+    authors: <strong>Qidong He</strong>, Scott Taylor
+    journal_short: JMSJ
+    journal: Journal of the Mathematical Society of Japan, 2023.
+    pdf: https://doi.org/10.2969/jmsj/86158615
+    notes: Undergraduate research
