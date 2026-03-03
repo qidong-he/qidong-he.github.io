@@ -2,8 +2,8 @@ main:
 
   - title: Unified criteria for crystallization in hard-core lattice systems with applications to polyomino fluids and multi-component mixtures
     authors: <strong>Qidong He</strong>
-    conference_short: arXiv
-    conference: arXiv:2602.05294v2 [math-ph]
+    journal_short: arXiv
+    journal: arXiv:2602.05294v2 [math-ph]
     pdf: https://arxiv.org/pdf/2602.05294v2
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -12,8 +12,8 @@ main:
 
   - title: Extended regime of nematic order in an interacting monomer-dimer model of Heilmann and Lieb
     authors: <strong>Qidong He</strong>
-    conference_short: arXiv
-    conference: arXiv:2511.23437v2 [math-ph]
+    journal_short: arXiv
+    journal: arXiv:2511.23437v2 [math-ph]
     pdf: https://arxiv.org/pdf/2511.23437v2
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -23,14 +23,14 @@ main:
 
   - title: Liquid-vapor transition in a model of a continuum particle system with finite-range modified Kac pair potential
     authors: <strong>Qidong He</strong>, Ian Jauslin, Joel Lebowitz, Ron Peled
-    conference_short: arXiv
-    conference: arXiv:2510.24825 [math-ph]
+    journal_short: arXiv
+    journal: arXiv:2510.24825 [math-ph]
     pdf: https://arxiv.org/pdf/2510.24825
 
   - title: Upper bounds for the connective constant of weighted self-avoiding walks
     authors: <strong>Qidong He</strong>
-    conference_short: arXiv
-    conference: "Journal of Physics A: Mathematical and Theoretical"
+    journal_short: arXiv
+    journal: "Journal of Physics A: Mathematical and Theoretical"
     pdf: https://arxiv.org/pdf/2510.24825
 
 # @article{he2025upperboundsconnectiveconstant,
