@@ -48,12 +48,12 @@
       {% if link.others %} 
       {{ link.others }}
       {% endif %}
-    </div>
-    {% if link.abstract %}
+      {% if link.abstract %}
       <div id="abs-{{ link.title | slugify }}" style="display: none; margin-top: 10px; padding: 12px; background-color: #f8f9fa; border-left: 3px solid #6c757d; font-size: 13px; line-height: 1.5; border-radius: 0 4px 4px 0;">
         {{ link.abstract }}
       </div>
-    {% endif %}
+      {% endif %}
+    </div>
   </div>
 </div>
 </li>
