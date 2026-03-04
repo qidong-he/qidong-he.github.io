@@ -20,6 +20,7 @@ main:
     journal_short: arXiv
     journal: arXiv preprint
     pdf: https://arxiv.org/pdf/2510.24825
+    image: ./assets/img/phase_diagram.tikz.png
 
   - title: Upper bounds for the connective constant of weighted self-avoiding walks
     authors: <strong>Qidong He</strong>
@@ -39,6 +40,7 @@ main:
     journal_short: JSP
     journal: Journal of Statistical Physics, 2024
     pdf: https://doi.org/10.1007/s10955-024-03349-x
+    image: ./assets/img/heptacube_tile1.png
 
   - title: Counting conjugacy classes of elements of finite order in exceptional Lie groups
     authors: Tamar Friedmann, <strong>Qidong He</strong>
