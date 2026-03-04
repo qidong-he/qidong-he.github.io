@@ -6,7 +6,7 @@ main:
     journal: arXiv preprint, 2026
     pdf: https://arxiv.org/pdf/2602.05294v2
     image: ./assets/img/post-transition.png
-    notes: image by Barnes (2010)
+    notes: "image: Monte Carlo simulation by Barnes (2010)"
 
   - title: Extended regime of nematic order in an interacting monomer-dimer model of Heilmann and Lieb
     authors: <strong>Qidong He</strong>
@@ -27,6 +27,7 @@ main:
     journal_short: J. Phys. A
     journal: "Journal of Physics A: Mathematical and Theoretical, 2025"
     pdf: https://doi.org/10.1088/1751-8121/ae280e
+    image: ./assets/img/placeholder.png
 
   - title: Analyticity for locally stable hard-core gases via recursion
     authors: <strong>Qidong He</strong>
@@ -48,6 +49,7 @@ main:
     journal: Combinatorial Theory, 2024
     pdf: https://doi.org/10.5070/C64163850
     notes: undergraduate research
+    image: ./assets/img/placeholder.png
 
   - title: Links, bridge number, and width trees
     authors: <strong>Qidong He</strong>, Scott Taylor
@@ -55,3 +57,4 @@ main:
     journal: Journal of the Mathematical Society of Japan, 2023
     pdf: https://doi.org/10.2969/jmsj/86158615
     notes: undergraduate research
+    image: ./assets/img/placeholder.png
