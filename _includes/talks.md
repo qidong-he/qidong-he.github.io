@@ -1,6 +1,7 @@
 ## Talks
 
-- [*Phase transitions in hard-core models of statistical mechanics*](assets/files/defense.pdf). PhD thesis defense, Rutgers University. Feb 26, 2026.
+- *Crystalline order in random packings of Z-pentominoes on the square lattice*. Rutgers Graduate Student Combinatorics Seminar, Rutgers University. Mar 11, 2026.
+- [*Phase transitions in hard-core models of statistical mechanics*](assets/files/defense.pdf). Thesis Defense, Rutgers University. Feb 26, 2026.
 - *Extended regime of nematic order in an interacting monomer-dimer model of Heilmann and Lieb*. 129th Statistical Mechanics Conference, Rutgers University. Dec 16, 2025. <strong><i style="color:#e74d3c">short talk</i></strong>
 - *Structures of random packings*. Rutgers Graduate Student Pizza Seminar, Rutgers University. Oct 17, 2025.
 - *Random packings*. Rutgers Graduate Student Combinatorics Seminar, Rutgers University. Apr 2, 2025.
