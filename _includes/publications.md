@@ -7,7 +7,7 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;align-self: flex-start;">
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% if link.journal_short %} 
@@ -22,13 +22,13 @@
       </div>
     <div class="links">
       {% if link.abstract %} 
-      <a class="btn btn-sm z-depth-0" role="button" style="font-size:12px; cursor: pointer;" onclick="var el = document.getElementById('abs-{{ link.title | slugify }}'); el.style.display = (el.style.display === 'none') ? 'block' : 'none';">Abstract</a>
-      {% endif %}
-      {% if link.doi %} 
-      <a href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+      <a class="btn btn-sm z-depth-0" role="button" style="font-size:12px; cursor: pointer;" onclick="var el = document.getElementById('abs-{{ link.title | slugify }}'); el.style.display = (el.style.display === 'none') ? 'block' : 'none';">abstract</a>
       {% endif %}
       {% if link.arXiv %} 
       <a href="{{ link.arXiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      {% endif %}
+      {% if link.doi %} 
+      <a href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
       {% endif %}
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
