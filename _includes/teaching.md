@@ -1,7 +1,7 @@
 ## Teaching
 
 | Semester | Course | Role |
-|:---:|---|:---:|
+|:---:|---|---|
 | S25 | 01:640:250 (Introductory Linear Algebra) | TA-at-Large |
 | F24 | 01:640:421 (Advanced Calculus for Engineering) | TA-at-Large |
 | S24 | 01:640:421 (Advanced Calculus for Engineering) | TA-at-Large |
