@@ -31,7 +31,7 @@ main:
     journal: "Journal of Physics A: Mathematical and Theoretical, 2025"
     arXiv: https://arxiv.org/abs/2508.01993
     doi: https://doi.org/10.1088/1751-8121/ae280e
-    image: ./assets/img/placeholder.png
+    image: ./assets/img/Rutgers.png
     abstract: "Extending an earlier work by Alm (1993), I develop a method for deriving upper bounds on the connective constant of weighted self-avoiding walks, with implications for the convergence of the corresponding anisotropic generating functions. A Python implementation of the method is publicly available."
 
   - title: Analyticity for locally stable hard-core gases via recursion
@@ -58,7 +58,7 @@ main:
     journal: Combinatorial Theory, 2024
     arXiv: https://arxiv.org/abs/2210.15737
     doi: https://doi.org/10.5070/C64163850
-    image: ./assets/img/placeholder.png
+    image: ./assets/img/Colby.png
     undergrad: true
 
   - title: Links, bridge number, and width trees
@@ -67,5 +67,5 @@ main:
     journal: Journal of the Mathematical Society of Japan, 2023
     arXiv: https://arxiv.org/abs/2005.12388
     doi: https://doi.org/10.2969/jmsj/86158615
-    image: ./assets/img/placeholder.png
+    image: ./assets/img/Colby.png
     undergrad: true
