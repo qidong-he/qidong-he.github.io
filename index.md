@@ -8,7 +8,7 @@ I am a fifth-year PhD candidate in mathematics and an SAS fellow at Rutgers Univ
 
 ## Research Interests
 
-Probability theory, statistical physics
+Probability theory, statistical physics, random packings
 
 {% include_relative _includes/publications.md %}
 
