@@ -2,9 +2,7 @@
 
 <div class="publications">
 <ol class="bibliography">
-
 {% for link in site.data.publications.main %}
-
 <li style="margin-bottom: 15px;">
 <div class="pub-row" style="display: flex;">
   <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;align-self: flex-start;">
@@ -63,8 +61,6 @@
   </div>
 </div>
 </li>
-
 {% endfor %}
-
 </ol>
 </div>
