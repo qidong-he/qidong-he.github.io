@@ -7,7 +7,7 @@ main:
     arXiv: https://arxiv.org/abs/2602.05294
     image: ./assets/img/post-transition.png
     # notes: "image: Monte Carlo simulation by Barnes (2010)"
-    abstract: "I generalize Ian and I's previous criteria for crystallization in hard-core lattice systems by allowing for (a) a general measure of local order and (b) multiple particle shapes."
+    abstract: "I generalize our previous criteria (2024) for crystallization in hard-core lattice systems by allowing for (a) a general measure of local order and (b) multiple particle shapes."
 
   - title: Extended regime of nematic order in an interacting monomer-dimer model of Heilmann and Lieb
     authors: <strong>Qidong He</strong>
