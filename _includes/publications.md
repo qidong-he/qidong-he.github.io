@@ -7,15 +7,15 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;align-self: flex-start;">
+  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;align-self: flex-start;">
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% if link.journal_short %} 
     <abbr class="badge">{{ link.journal_short }}</abbr>
     {% endif %}
     {% endif %}
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;align-self: flex-start;">
+  </div> -->
+  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;align-self: flex-start;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.journal }}</em>
