@@ -14,7 +14,7 @@
     {% endif %}
   </div> -->
   <!-- <div class="col-sm-1" style="align-self: flex-start; text-align: right; padding-right: 15px; font-weight: bold; color: #555;"> -->
-  <div style="flex: 0 0 25px; align-self: flex-start; text-align: center; font-weight: bold; color: #555;">
+  <div style="flex: 0 0 30px; align-self: flex-start; text-align: center; font-weight: bold; color: #555;">
     [{{ forloop.rindex }}]
   </div>
   <!-- <div class="col-sm-11" style="position: relative;padding-right: 15px;padding-left: 20px;align-self: flex-start;"> -->
