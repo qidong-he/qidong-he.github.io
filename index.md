@@ -16,6 +16,8 @@ Probability theory, statistical physics, random packings
 
 {% include_relative _includes/talks.md %}
 
+{% include_relative _includes/gallery.md %}
+
 <!-- Default Statcounter code for New Personal
 https://qhe28.github.io/ -->
 <script type="text/javascript">
