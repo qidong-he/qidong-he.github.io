@@ -1,7 +1,7 @@
 ## Teaching
 
-I am not teaching in the 2025–26 academic year.\
 In Feb. 2024, I received a [TA Teaching Excellence Award](https://www.math.rutgers.edu/academics/graduate-program/graduate-student-awards).
+I am not teaching in the 2025–26 academic year.
 
 | Semester | Course | Role |
 |:---:|---|---|
