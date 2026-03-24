@@ -6,6 +6,6 @@
   title: "Truncated square tiling as a crystal structure"
   caption: 'By fine-tuning the chemical potentials in a mixture of diamonds and octagons on the square lattice, the truncated square tiling emerges as a stable crystal structure at low temperatures. <a href="#paper-8">[8]</a>'
 
-- image: /assets/img/dimer_post-transition.png
+- image: /assets/img/dimer_post-transition_cropped.png
   title: "Nematic phase in an interacting monomer-dimer model"
   caption: 'In a lattice model for liquid crystals introduced by Heilmann and Lieb, the particles, modeled by dimers at chemical potential <mi>&mu;</mi>, are subject to an attractive interaction that lowers the potential energy by <mi>-a&lt;0</mi> for each pair of neighboring aligned dimers. By suitably tuning <mi>&mu;</mi> and <mi>a</mi>, the model enters a nematic phase at low temperatures, characterized by the presence of orientational order and the absence of positional order. <a href="#paper-7">[7]</a>'
