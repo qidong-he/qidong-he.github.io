@@ -1,7 +1,7 @@
 - title: "Crystalline phase of the Z-pentomino fluid"
-  caption: 'The chiral Z-pentominoes admit six distinct crystal structures up to translations and rotations, two of which are observed in this grand-canonical Monte Carlo simulation by <a href="https://openscholarship.wustl.edu/etd/30/" target="_blank">Barnes (2010)</a>. <a href="#paper-8">[8]</a>'
+  caption: 'The chiral Z-pentominoes admit six distinct crystal structures up to translations and rotations, two of which appear in this grand-canonical Monte Carlo simulation by <a href="https://openscholarship.wustl.edu/etd/30/" target="_blank">Barnes (2010)</a>. <a href="#paper-8">[8]</a>'
   image: assets/img/post-transition.png
 
 - image: /assets/img/truncated_square_big.tikz.jpg
   title: "Truncated square tiling as a crystal structure"
-  caption: 'By fine-tuning the chemical potentials in a mixture of diamonds and octagons on the square lattice, the truncated square tiling may be obtained as a stable crystal structure. <a href="#paper-8">[8]</a>'
+  caption: 'By fine-tuning the chemical potentials in a mixture of diamonds and octagons on the square lattice, the truncated square tiling emerges as a stable crystal structure at low temperatures. <a href="#paper-8">[8]</a>'
