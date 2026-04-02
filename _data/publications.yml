@@ -1,30 +1,5 @@
 main:
 
-  - title: Unified criteria for crystallization in hard-core lattice systems with applications to polyomino fluids and multi-component mixtures
-    authors: <strong>Qidong He</strong>
-    # journal_short: arXiv
-    journal: arXiv preprint, 2026
-    arXiv: https://arxiv.org/abs/2602.05294
-    image: ./assets/img/post-transition.png
-    # notes: "image: Monte Carlo simulation by Barnes (2010)"
-    abstract: "I generalize our previous criteria (2024) for crystallization in hard-core lattice systems by allowing for (a) a general measure of local order and (b) multiple particle shapes."
-
-  - title: Extended regime of nematic order in an interacting monomer-dimer model of Heilmann and Lieb
-    authors: <strong>Qidong He</strong>
-    # journal_short: arXiv
-    journal: arXiv preprint, 2025
-    arXiv: https://arxiv.org/abs/2511.23437
-    image: ./assets/img/dimer_post-transition.png
-    abstract: "I prove that a two-dimensional model for liquid crystals introduced by Heilmann and Lieb (1979) exhibits nematic order over a much larger parameter regime than previously known (Jauslin–Lieb, 2018) by adapting the proof strategy developed by Hadas and Peled (2025) for the 2×2 hard square model."
-
-  - title: Liquid-vapor transition in a model of a continuum particle system with finite-range modified Kac pair potential
-    authors: <strong>Qidong He</strong>, Ian Jauslin, Joel Lebowitz, Ron Peled
-    # journal_short: arXiv
-    journal: arXiv preprint, 2025
-    arXiv: https://arxiv.org/abs/2510.24825
-    image: ./assets/img/phase_diagram.tikz.png
-    abstract: "We prove that a class of continuous particle systems with mesoscopically tailored, finite-range pair potentials exhibits liquid-vapor transitions by verifying a criterion of Dobrushin and Shlosman (1981)."
-
   - title: Upper bounds for the connective constant of weighted self-avoiding walks
     authors: <strong>Qidong He</strong>
     journal_short: J. Phys. A
