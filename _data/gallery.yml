@@ -4,7 +4,7 @@
 
 - image: /assets/img/gallery/truncated_square_big.tikz.jpg
   title: "Truncated square tiling as a crystal structure"
-  caption: 'By fine-tuning the chemical potentials in a mixture of diamonds and octagons on the square lattice, the truncated square tiling emerges as a stable crystal structure at low temperatures. <a href="#preprint-3">[3]</a>'
+  caption: 'By carefully selecting the chemical potentials in a mixture of diamonds and octagons on the square lattice, the truncated square tiling emerges as a stable crystal structure at low temperatures. <a href="#preprint-3">[3]</a>'
 
 # - image: /assets/img/gallery/dimer_post-transition_cropped.png
 #   title: "Nematic order in an interacting dimer model"
