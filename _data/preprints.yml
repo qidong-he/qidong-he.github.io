@@ -1,5 +1,13 @@
 main:
 
+  - title: Rigorous bound on the aspect ratio for the formation of a nematic phase in hard rod and hard rectangle systems on &Zopf;<sup>2</sup>
+    authors: <strong>Qidong He</strong>
+    # journal_short: arXiv
+    journal: arXiv preprint, 2026
+    arXiv: https://arxiv.org/abs/2607.10510
+    image: ./assets/img/nematic-rectangle.png
+    abstract: "I derive what appears to be the first rigorous numerical bound on the aspect ratio (k) required for the formation of a nematic phase in hard rectangle systems on the square lattice by synthesizing the approaches of Disertori–Giuliani (2013) and Disertori–Giuliani–Jauslin (2020). Between my result (k&ge;10<sup>72</sup>) and the physical prediction (k&ge;7) due to Ghosh–Dhar (2007) and Kundu–Rajesh (2014, 2015), there is still a very long way to go."
+
   - title: Unified criteria for crystallization in hard-core lattice systems with applications to polyomino fluids and multi-component systems
     authors: <strong>Qidong He</strong>
     # journal_short: arXiv
@@ -7,7 +15,7 @@ main:
     arXiv: https://arxiv.org/abs/2602.05294
     image: ./assets/img/post-transition.png
     # notes: "image: Monte Carlo simulation by Barnes (2010)"
-    abstract: "I generalize our previous criteria (2024) for crystallization in hard-core lattice systems by allowing for (a) a general measure of local order and (b) multiple particle shapes."
+    abstract: "I extend the characterization of local order in He–Jauslin (2024) to give a set of criteria for low-temperature crystallization in multi-component systems."
 
   - title: Extended regime of nematic order in an interacting monomer-dimer model of Heilmann and Lieb
     authors: <strong>Qidong He</strong>
@@ -15,7 +23,7 @@ main:
     journal: arXiv preprint, 2025
     arXiv: https://arxiv.org/abs/2511.23437
     image: ./assets/img/dimer_post-transition.png
-    abstract: "I prove that a two-dimensional model for liquid crystals introduced by Heilmann and Lieb (1979) exhibits nematic order over a much larger parameter regime than previously known (Jauslin–Lieb, 2018) by adapting the proof strategy developed by Hadas and Peled (2025) for the 2×2 hard square model."
+    abstract: "I prove that a two-dimensional model for liquid crystals introduced by Heilmann–Lieb (1979) exhibits nematic order over a much larger parameter regime than previously known (Jauslin–Lieb, 2018) by adapting the proof strategy developed by Hadas and Peled (2025) for the 2×2 hard square model."
 
   - title: Liquid-vapor transition in a model of a continuum particle system with finite-range modified Kac pair potential
     authors: <strong>Qidong He</strong>, Ian Jauslin, Joel Lebowitz, Ron Peled
@@ -23,4 +31,4 @@ main:
     journal: arXiv preprint, 2025
     arXiv: https://arxiv.org/abs/2510.24825
     image: ./assets/img/phase_diagram.tikz.png
-    abstract: "We prove that a class of continuous particle systems with mesoscopically tailored, finite-range pair potentials exhibits liquid-vapor transitions by verifying a criterion of Dobrushin and Shlosman (1981)."
+    abstract: "We prove that a class of continuous particle systems with mesoscopically tailored, finite-range pair potentials exhibits liquid-vapor transitions by verifying a criterion of Dobrushin–Shlosman (1981)."
