@@ -1,5 +1,13 @@
 main:
 
+  - title: Liquid-vapor transition in a model of a continuum particle system with finite-range modified Kac pair potential
+    authors: <strong>Qidong He</strong>, Ian Jauslin, Joel Lebowitz, Ron Peled
+    journal_short: CMP
+    journal: "Communications in Mathematical Physics, 2026"
+    arXiv: https://arxiv.org/abs/2510.24825
+    image: ./assets/img/phase_diagram.tikz.png
+    abstract: "We prove that a class of continuous particle systems with mesoscopically tailored, finite-range pair potentials exhibits liquid-vapor transitions by verifying a criterion of Dobrushin–Shlosman (1981)."
+
   - title: Upper bounds for the connective constant of weighted self-avoiding walks
     authors: <strong>Qidong He</strong>
     journal_short: J. Phys. A
@@ -16,7 +24,7 @@ main:
     arXiv: https://arxiv.org/abs/2405.04451
     doi: https://doi.org/10.1007/s10955-025-03435-8
     image: ./assets/img/example.tikz.png
-    abstract: "Extending the recursion method developed by Michelen and Perkins (2025), I expand the known range of activities for which a continuum system of hard spheres with an additional attractive pair interaction is in the gas phase. In the high-temperature regime, the improvement surpasses the classical Penrose–Ruelle bound by at least a factor of e^2."
+    abstract: "Extending the recursion method developed by Michelen–Perkins (2025), I expand the known range of activities for which a continuum system of hard spheres with an additional attractive pair interaction is in the gas phase. In the high-temperature regime, the improvement surpasses the classical Penrose–Ruelle bound by at least a factor of e<sup>2</sup>."
 
   - title: High-fugacity expansion and crystallization in non-sliding hard-core lattice particle models without a tiling constraint
     authors: <strong>Qidong He</strong>, Ian Jauslin
