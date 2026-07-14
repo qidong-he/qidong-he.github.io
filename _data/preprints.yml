@@ -23,12 +23,5 @@ main:
     journal: arXiv preprint, 2025
     arXiv: https://arxiv.org/abs/2511.23437
     image: ./assets/img/dimer_post-transition.png
-    abstract: "I prove that a two-dimensional model for liquid crystals introduced by Heilmann–Lieb (1979) exhibits nematic order over a much larger parameter regime than previously known (Jauslin–Lieb, 2018) by adapting the proof strategy developed by Hadas and Peled (2025) for the 2×2 hard square model."
-
-  - title: Liquid-vapor transition in a model of a continuum particle system with finite-range modified Kac pair potential
-    authors: <strong>Qidong He</strong>, Ian Jauslin, Joel Lebowitz, Ron Peled
-    # journal_short: arXiv
-    journal: arXiv preprint, 2025
-    arXiv: https://arxiv.org/abs/2510.24825
-    image: ./assets/img/phase_diagram.tikz.png
-    abstract: "We prove that a class of continuous particle systems with mesoscopically tailored, finite-range pair potentials exhibits liquid-vapor transitions by verifying a criterion of Dobrushin–Shlosman (1981)."
+    abstract: "I prove that a two-dimensional model for liquid crystals introduced by Heilmann–Lieb (1979) exhibits nematic order over a much larger parameter regime than previously known (Jauslin–Lieb, 2018) by adapting the proof strategy developed by Hadas–Peled (2025) for the 2×2 hard square model."
+    
