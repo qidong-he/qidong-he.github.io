@@ -9,7 +9,7 @@ Starting in August 2026, I will be a Zelevinsky postdoctoral fellow at Northeast
 
 ## Research Interests
 
-Probability theory, statistical physics, random packings
+Random packings, statistical physics, probability theory
 
 {% include_relative _includes/preprints.md %}
 
