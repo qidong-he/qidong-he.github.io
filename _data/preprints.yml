@@ -4,8 +4,8 @@ main:
     authors: <strong>Qidong He</strong>
     # journal_short: arXiv
     journal: arXiv preprint, 2026
-    # arXiv: https://arxiv.org/abs/2607.10510
-    # abstract: "I show that the dimer constant of the cubic lattice is bounded above by 0.452130, improving the previous best upper bound of 0.457547 obtained by Lundow (2001)."
+    arXiv: https://arxiv.org/abs/2607.28810
+    abstract: "I show that the dimer constant of the cubic lattice is bounded above by 0.452130, improving the previous best upper bound of 0.457547 obtained by Lundow (2001)."
   
   - title: 'Rigorous bound on the aspect ratio for the formation of a nematic phase in hard rod and hard rectangle systems on $\mathbb{Z}^2$'
     authors: <strong>Qidong He</strong>
