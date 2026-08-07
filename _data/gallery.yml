@@ -1,13 +1,13 @@
-- title: "Nematic phase of the 2×14 hard rectangle fluid"
+- title: 'Nematic phase of the $2\times 14$ hard rectangle fluid'
   caption: 'It is believed that hard rectangle fluids on the square lattice undergo three phase transitions as the density increases, from a low-density disordered phase to a nematic phase, a columnar phase, and finally a high-density disordered phase, whenever the aspect ratio is above $7$ (inclusive). The nematic phase is shown in this grand-canonical Monte Carlo simulation. Picture by <a href="https://doi.org/10.1103/PhysRevE.89.052124" target="_blank">Kundu–Rajesh (2014)</a>. <a href="#preprint-3">[3]</a>'
   image: assets/img/gallery/nematic_rectangle.png
 
-- title: "Crystalline phase of the Z-pentomino fluid"
+- title: 'Crystalline phase of the Z-pentomino fluid'
   caption: 'The Z-pentomino admits six distinct crystal structures up to translations and rotations, three of which appeared in this grand-canonical Monte Carlo simulation. Picture by <a href="https://openscholarship.wustl.edu/etd/30/" target="_blank">Barnes (2010)</a>. <a href="#preprint-2">[2]</a>'
   image: assets/img/gallery/post-transition_cropped.png
 
 - image: /assets/img/gallery/truncated_square_big.tikz.jpg
-  title: "Truncated square tiling as a crystal structure"
+  title: 'Truncated square tiling as a crystal structure'
   caption: 'By carefully controlling the chemical potentials in a mixture of diamonds and octagons on the square lattice, the truncated square tiling arises as a candidate crystal structure at low temperatures. <a href="#preprint-2">[2]</a>'
 
 # - image: /assets/img/gallery/dimer_post-transition_cropped.png
