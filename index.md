@@ -11,6 +11,8 @@ Starting in August 2026, I will be a Zelevinsky postdoctoral fellow at Northeast
 
 Packing problems, statistical physics, and probability theory, with an emphasis on phase transitions in lattice models of solids and liquid crystals
 
+{% include_relative _includes/gallery.md %}
+
 {% include_relative _includes/preprints.md %}
 
 {% include_relative _includes/publications.md %}
@@ -18,5 +20,3 @@ Packing problems, statistical physics, and probability theory, with an emphasis 
 {% include_relative _includes/teaching.md %}
 
 {% include_relative _includes/talks.md %}
-
-{% include_relative _includes/gallery.md %}
