@@ -35,3 +35,15 @@
   background-color: #f8f9fa;
   flex-grow: 1;
 }
+
+@media (prefers-color-scheme: dark) {
+  .gallery-item {
+    border-color: #444;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.35);
+  }
+
+  .gallery-caption {
+    background-color: #2a2d33;
+    color: #e8eaed;   /* visible in dark mode */
+  }
+}
