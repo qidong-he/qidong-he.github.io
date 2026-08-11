@@ -6,7 +6,7 @@ layout: homepage
 
 Starting in August 2026, I will be a Zelevinsky postdoctoral fellow at Northeastern University.
 I obtained my Ph.D. in Mathematics from Rutgers University–New Brunswick in May 2026, under the advisement of [Ian Jauslin](http://ian.jauslin.org/) and [Joel Lebowitz](https://cmsr.rutgers.edu/people-cmsr/joel-lebowitz).
-Previously, I graduated *summa cum laude* from Colby College with a B.A. in Mathematics and Physics.
+Previously, I graduated summa cum laude from Colby College with a B.A. in Mathematics and Physics.
 
 ## Research Interests
 
