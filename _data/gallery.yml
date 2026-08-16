@@ -1,9 +1,9 @@
 - title: 'Nematic phase of the $2\times 14$ hard rectangle fluid'
-  caption: 'Hard rectangle fluids on the square lattice are believed to transition, with increasing density, from a disordered phase to a nematic phase (shown here), a columnar phase, and a re-entrant disordered phase, if the aspect ratio of the rectangle is at least $7$ (inclusive). Picture by <a href="https://doi.org/10.1103/PhysRevE.89.052124" target="_blank">Kundu–Rajesh (2014)</a>. See my preprint <a href="#preprint-3">[3]</a>'
+  caption: 'Hard rectangle fluids on the square lattice are believed to transition, with increasing density, from a disordered phase to a nematic phase, a columnar phase, and a re-entrant disordered phase, if the rectangle's aspect ratio is at least $7$. Picture by <a href="https://doi.org/10.1103/PhysRevE.89.052124" target="_blank">Kundu–Rajesh (2014)</a>.<br>&bull;See my preprint <a href="#preprint-3">[3]</a>'
   image: assets/img/gallery/nematic_rectangle.png
 
 - title: 'Crystalline phase of the Z-pentomino fluid'
-  caption: 'The Z-pentomino admits six distinct tilings of the plane up to translations and rotations, three of which appear as crystal structures in this grand-canonical Monte Carlo simulation by <a href="https://openscholarship.wustl.edu/etd/30/" target="_blank">Barnes (2010)</a>. See my preprint <a href="#preprint-2">[2]</a>'
+  caption: 'The Z-pentomino admits six distinct tilings of the plane up to translations and rotations, three of which appear as crystal structures in this grand-canonical Monte Carlo simulation by <a href="https://openscholarship.wustl.edu/etd/30/" target="_blank">Barnes (2010)</a>.<br>&bull;See my preprint <a href="#preprint-2">[2]</a>'
   image: assets/img/gallery/post-transition_cropped.png
 
 # - image: /assets/img/gallery/truncated_square_big.tikz.jpg
