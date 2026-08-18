@@ -10,6 +10,6 @@
 #   title: 'Truncated square tiling as a crystal structure'
 #   caption: 'By carefully controlling the chemical potentials in a mixture of diamonds and octagons on the square lattice, the truncated square tiling arises as a candidate crystal structure at low temperatures. <a href="#preprint-2">[2]</a>'
 
-# - image: /assets/img/gallery/dimer_post-transition_cropped.png
-#   title: "Nematic order in an interacting dimer model"
-#   caption: 'In a lattice model for liquid crystals introduced by Heilmann and Lieb, the particles, modeled by dimers at chemical potential <mi>&mu;</mi>, are subject to an attractive interaction that lowers the potential energy by <mi>-a&lt;0</mi> for each pair of neighboring, aligned dimers. By suitably tuning <mi>&mu;</mi> and <mi>a</mi>, the model enters a nematic phase at low temperatures, characterized by the presence of orientational order and the absence of positional order. <a href="#paper-7">[7]</a>'
+- image: /assets/img/gallery/Heilmann-Lieb.png
+  title: 'Nematic order in an interacting monomer-dimer model'
+  caption: 'Heilmann and Lieb proposed a model for liquid crystals in which particles are represented by non-intersecting edges of the square lattice, interacting by a pair attraction between aligned edges. The model exhibits a low-temperature nematic phase characterized by the presence of orientational order and the absence of positional order. See preprint <a href="#preprint-1">[1]</a>'
