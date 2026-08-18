@@ -12,4 +12,4 @@
 
 - image: /assets/img/gallery/Heilmann-Lieb.png
   title: 'Nematic order in an interacting monomer-dimer model'
-  caption: 'Heilmann and Lieb proposed a model for liquid crystals in which particles are represented by non-intersecting edges of the square lattice, interacting by a pair attraction between aligned edges. The model exhibits a low-temperature nematic phase characterized by the presence of orientational order and the absence of positional order. See preprint <a href="#preprint-1">[1]</a>'
+  caption: 'In 1979, Heilmann and Lieb proposed a model for liquid crystals in which particles are non-intersecting edges of the square lattice, with pair attraction between aligned edges. The model exhibits a low-temperature nematic phase characterized by orientational but no positional order. See preprint <a href="#preprint-1">[1]</a>'
