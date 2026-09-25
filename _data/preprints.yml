@@ -28,7 +28,7 @@ main:
     authors: <strong>Qidong He</strong>
     # journal_short: arXiv
     journal: arXiv preprint, 2025
-    arXiv: https://arxiv.org/abs/2511.23437
+    arXiv: https://arxiv.org/abs/2511.23437v3
     image: ./assets/img/dimer_post-transition.png
-    abstract: 'I prove that a two-dimensional model for liquid crystals introduced by Heilmann–Lieb (1979) exhibits nematic order over a much larger parameter regime than previously known (Jauslin–Lieb, 2018) by adapting the proof strategy developed by Hadas–Peled (2025) for the $2\times 2$ hard square model.'
+    abstract: 'I prove that a two-dimensional model for liquid crystals introduced by Heilmann–Lieb (Model I, 1979) exhibits nematic order over a much larger parameter regime than previously known (Jauslin–Lieb, 2018). The proof relies on the abstract framework of strongly percolating sets developed by Hadas–Peled (2026) in their recent study of the $2\times 2$ hard square model.'
     
