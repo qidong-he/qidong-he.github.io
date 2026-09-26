@@ -1,5 +1,12 @@
 main:
 
+  - title: 'A general framework for crystallization in maximal hard-core models'
+    authors: Alexander Barg, <strong>Qidong He</strong>, Geyang Wang
+    # journal_short: arXiv
+    # journal: arXiv preprint, 2026
+    # arXiv: https://arxiv.org/abs/2607.28810
+    # abstract: 'I show that the dimer constant of the cubic lattice is bounded above by $0.452130$, improving the previous best upper bound of $0.457547$ obtained by Lundow (2001).'
+
   - title: 'A new upper bound on the dimer constant of $\mathbb{Z}^3$'
     authors: <strong>Qidong He</strong>
     # journal_short: arXiv
