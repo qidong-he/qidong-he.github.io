@@ -3,8 +3,9 @@ main:
   - title: Liquid-vapor transition in a model of a continuum particle system with finite-range modified Kac pair potential
     authors: <strong>Qidong He</strong>, Ian Jauslin, Joel Lebowitz, Ron Peled
     journal_short: CMP
-    journal: "Communications in Mathematical Physics (to appear)"
+    journal: "Communications in Mathematical Physics, 2026"
     arXiv: https://arxiv.org/abs/2510.24825
+    doi: https://doi.org/10.1007/s00220-026-05735-w
     image: ./assets/img/phase_diagram.tikz.png
     abstract: 'We prove that a class of continuous particle systems with mesoscopically tailored, finite-range pair potentials exhibits liquid-vapor transitions by verifying a criterion of Dobrushin–Shlosman (1981).'
 
