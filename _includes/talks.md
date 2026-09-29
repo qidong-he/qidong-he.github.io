@@ -1,6 +1,6 @@
 ## Talks
 
-- *Nematic liquid-crystalline phase in an interacting monomer-dimer model of Heilmann and Lieb*. Applied and Interdisciplinary Mathematics (AIM) Seminar, Northeastern University. Sep 29, 2026.
+- [*Nematic liquid-crystalline phase in an interacting monomer-dimer model of Heilmann and Lieb*](assets/files/20260929.pdf). Applied and Interdisciplinary Mathematics (AIM) Seminar, Northeastern University. Sep 29, 2026.
 - *High-density crystallization of polyomino fluids on the square lattice*. 130th Statistical Mechanics Conference, Rutgers University. May 11, 2026. <span style="color: #6c757d; font-style: italic;">(short talk)</span>
 - *Crystalline order in random packings of Z-pentominoes on the square lattice*. Rutgers Graduate Student Combinatorics Seminar, Rutgers University. Mar 11, 2026.
 - [*Phase transitions in hard-core models of statistical mechanics*](assets/files/defense.pdf). Ph.D. defense, Rutgers University. Feb 26, 2026.
