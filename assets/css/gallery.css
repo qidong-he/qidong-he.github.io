@@ -1,12 +1,17 @@
 /* ========================================== */
-/* 1. MAIN GRID CONTAINER                     */
+/* 1. MAIN GALLERY CONTAINER                  */
 /* ========================================== */
 .gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-  gap: 20px;
+  display: block;
   margin-bottom: 30px;
-  align-items: start; /* Prevents short items from stretching vertically */
+}
+
+.gallery-grid > * {
+  margin-bottom: 20px;
+}
+
+.gallery-grid > *:last-child {
+  margin-bottom: 0;
 }
 
 /* ========================================== */
@@ -23,7 +28,7 @@
 
 .gallery-item img {
   width: 100%;
-  height: auto; 
+  height: auto;
   display: block;
 }
 
