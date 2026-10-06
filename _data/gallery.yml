@@ -1,3 +1,7 @@
+- image: /assets/img/gallery/model_v.png
+  title: 'Nematic order in a three-dimensional interacting monomer-dimer model'
+  caption: 'Nematic order in Model V of Heilmann–Lieb (1979). See preprint <a href="#preprint-5">[5]</a>'
+
 - title: 'Nematic phase of the $2\times 14$ hard rectangle fluid'
   caption: 'Hard rectangle fluids on the square lattice are believed to transition, with increasing density, from a disordered phase to a nematic phase, a columnar phase, and a re-entrant disordered phase, if the rectangle&#39;s aspect ratio is at least $7$. Picture by <a href="https://doi.org/10.1103/PhysRevE.89.052124" target="_blank">Kundu–Rajesh (2014)</a>. See preprint <a href="#preprint-3">[3]</a>'
   image: assets/img/gallery/nematic_rectangle.png
