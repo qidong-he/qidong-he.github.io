@@ -1,19 +1,22 @@
-- image: /assets/img/gallery/model_v.png
-  title: 'Nematic order in a three-dimensional interacting monomer-dimer model'
-  caption: 'Nematic order in Model V of Heilmann–Lieb (1979). See preprint <a href="#preprint-5">[5]</a>'
+- title: 'Nematic phase of a 3D interacting monomer-dimer model with lateral attraction'
+  image: /assets/img/gallery/model_v.png
+  caption: 'Illustrated: Model V of Heilmann–Lieb (1979). See preprint <a href="#preprint-5">[5]</a>'
 
 - title: 'Nematic phase of the $2\times 14$ hard rectangle fluid'
-  caption: 'Hard rectangle fluids on the square lattice are believed to transition, with increasing density, from a disordered phase to a nematic phase, a columnar phase, and a re-entrant disordered phase, if the rectangle&#39;s aspect ratio is at least $7$. Picture by <a href="https://doi.org/10.1103/PhysRevE.89.052124" target="_blank">Kundu–Rajesh (2014)</a>. See preprint <a href="#preprint-3">[3]</a>'
   image: assets/img/gallery/nematic_rectangle.png
+  caption: 'Picture by <a href="https://doi.org/10.1103/PhysRevE.89.052124" target="_blank">Kundu–Rajesh (2014)</a>. See preprint <a href="#preprint-3">[3]</a>'
+  # caption: 'Hard rectangle fluids on the square lattice are believed to transition, with increasing density, from a disordered phase to a nematic phase, a columnar phase, and a re-entrant disordered phase, if the rectangle&#39;s aspect ratio is at least $7$. Picture by <a href="https://doi.org/10.1103/PhysRevE.89.052124" target="_blank">Kundu–Rajesh (2014)</a>. See preprint <a href="#preprint-3">[3]</a>'
 
-- title: 'Crystalline phase of the Z-pentomino fluid'
-  caption: 'The Z-pentomino admits six distinct tilings of the plane up to translations and rotations, three of which appear as crystal structures in this grand-canonical Monte Carlo simulation by <a href="https://openscholarship.wustl.edu/etd/30/" target="_blank">Barnes (2010)</a>. See preprint <a href="#preprint-2">[2]</a>'
+- title: 'Polycrystalline phase of the hard Z-pentomino fluid'
   image: assets/img/gallery/post-transition_cropped.png
+  caption: 'Picture by <a href="https://openscholarship.wustl.edu/etd/30/" target="_blank">Barnes (2010)</a> showing metastable phase boundaries. See preprint <a href="#preprint-2">[2]</a>'
+  # caption: 'The Z-pentomino admits six distinct tilings of the plane up to translations and rotations, three of which appear as crystal structures in this grand-canonical Monte Carlo simulation by <a href="https://openscholarship.wustl.edu/etd/30/" target="_blank">Barnes (2010)</a>. See preprint <a href="#preprint-2">[2]</a>'
+
+- title: 'Nematic phase of a 2D interacting monomer-dimer model with end-to-end attraction'
+  image: /assets/img/gallery/Heilmann-Lieb.png
+  caption: 'Illustrated: Model I of Heilmann–Lieb (1979). See preprint <a href="#preprint-1">[1]</a>'
+  # caption: 'In 1979, Heilmann and Lieb proposed a model for liquid crystals in which particles are non-intersecting edges of the square lattice, with pair attraction between aligned edges. The model exhibits a low-temperature nematic phase characterized by orientational but no positional order. See preprint <a href="#preprint-1">[1]</a>'
 
 # - image: /assets/img/gallery/truncated_square_big.tikz.jpg
 #   title: 'Truncated square tiling as a crystal structure'
 #   caption: 'By carefully controlling the chemical potentials in a mixture of diamonds and octagons on the square lattice, the truncated square tiling arises as a candidate crystal structure at low temperatures. <a href="#preprint-2">[2]</a>'
-
-- image: /assets/img/gallery/Heilmann-Lieb.png
-  title: 'Nematic order in an interacting monomer-dimer model'
-  caption: 'In 1979, Heilmann and Lieb proposed a model for liquid crystals in which particles are non-intersecting edges of the square lattice, with pair attraction between aligned edges. The model exhibits a low-temperature nematic phase characterized by orientational but no positional order. See preprint <a href="#preprint-1">[1]</a>'
