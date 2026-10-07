@@ -8,8 +8,8 @@ main:
 
   - title: 'Nematic order in monomer-dimer models of Heilmann and Lieb with lateral attraction in dimensions $d\ge 2$'
     authors: <strong>Qidong He</strong>
-    # journal: arXiv preprint, 2026
-    # arXiv: https://arxiv.org/abs/2607.28810
+    journal: arXiv preprint, 2026
+    arXiv: https://arxiv.org/abs/2610.08600
     abstract: 'I prove nematic liquid-crystalline order in the $d$-dimensional generalization of Models II and V of Heilmann–Lieb (1979), for all $d\ge 2$.'
     
   - title: 'A new upper bound on the dimer constant of $\mathbb{Z}^3$'
