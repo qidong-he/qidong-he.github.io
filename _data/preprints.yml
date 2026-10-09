@@ -2,8 +2,8 @@ main:
 
   - title: 'A general framework for crystallization in maximal hard-core models'
     authors: Alexander Barg, <strong>Qidong He</strong>, Geyang Wang
-    # journal: 
-    # arXiv: 
+    journal: arXiv preprint, 2026
+    arXiv: https://arxiv.org/abs/2610.11042
     # abstract: 
 
   - title: 'Nematic order in monomer-dimer models of Heilmann and Lieb with lateral attraction in dimensions $d\ge 2$'
