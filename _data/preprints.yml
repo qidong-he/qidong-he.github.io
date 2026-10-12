@@ -4,13 +4,13 @@ main:
     authors: Alexander Barg, <strong>Qidong He</strong>, Geyang Wang
     journal: arXiv preprint, 2026
     arXiv: https://arxiv.org/abs/2610.11042
-    # abstract: 
+    abstract: 'We extend the crystallization criteria I developed in <a href="#preprint-2">[2]</a> to hard-core systems subjected to a maximality constraint.'
 
   - title: 'Nematic order in monomer-dimer models of Heilmann and Lieb with lateral attraction in dimensions $d\ge 2$'
     authors: <strong>Qidong He</strong>
     journal: arXiv preprint, 2026
     arXiv: https://arxiv.org/abs/2610.08600
-    abstract: 'I prove nematic liquid-crystalline order in the $d$-dimensional generalization of Models II and V of Heilmann–Lieb (1979), for all $d\ge 2$.'
+    abstract: 'I prove that Models II and V for liquid crystals introduced by Heilmann–Lieb (1979) exhibit nematic order at low temperatures. The treatment of orientational order follows the approach in my recent work on Model I <a href="#preprint-1">[1]</a>, whereas the proof of the absence of translational order relies on the method of cluster swapping (Sheffield, 2005). In fact, the proof works in all dimensions $d\ge 2$.'
     
   - title: 'A new upper bound on the dimer constant of $\mathbb{Z}^3$'
     authors: <strong>Qidong He</strong>
