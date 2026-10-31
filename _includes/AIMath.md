@@ -24,7 +24,7 @@
       {% elsif link.arXiv and link.arXiv != "" %}
         {% assign url = link.arXiv %}
       {% elsif link.hexagon and link.hexagon != "" %}
-        {% assign url = link.arXiv %}
+        {% assign url = link.hexagon %}
       {% elsif link.pdf and link.pdf != "" %}
         {% assign url = link.pdf %}
       {% else %}
