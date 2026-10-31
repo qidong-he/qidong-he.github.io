@@ -1,0 +1,5 @@
+main:
+
+  - title: 'First-order phase transition in Onsager's model of hard rods in $\mathbb{R}^3$'
+    hexagon: https://hexagonmath.org/2610.00667v1
+    abstract: 'GPT-6 Astra claims to have proven the existence of a first-order phase transition, in the sense of a non-differentiable point in the grand-canonical pressure, in a system of freely rotating hard spherocylinders (rods) in the three-dimensional continuum, whenever the radius-to-length ratio is sufficiently small.'
