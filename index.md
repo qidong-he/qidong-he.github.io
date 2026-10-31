@@ -18,6 +18,8 @@ Packing problems, statistical physics, and probability theory, with an emphasis 
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/AIMath.md %}
+
 {% include_relative _includes/teaching.md %}
 
 {% include_relative _includes/talks.md %}
