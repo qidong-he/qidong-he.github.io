@@ -1,4 +1,4 @@
-<h2 id="AIMath" style="margin: 2px 0px -15px;">AI-generated results</h2>
+<h2 id="AIMath" style="margin: 2px 0px -15px;">Unverified AI-generated results</h2>
 
 <div class="publications">
 <ol class="bibliography">
