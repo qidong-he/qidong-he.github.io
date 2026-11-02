@@ -1,7 +1,8 @@
 main:
 
   - title: 'Density coexistence for hard spheres with a long-range attractive pair interaction'
-    # hexagon: https://hexagonmath.org/2610.00734v1
+    hexagon: https://hexagonmath.org/2610.00734v1
+    abstract: 'GPT-6 Astra claims to have proven the existence of a first-order phase transition in a system of hard spheres in the three-dimensional continuum, interacting via an additional finite-range attractive pair interaction, whenever the temperature is suffiently low.'
 
   - title: 'First-order phase transition in Onsager''s model of hard rods in $\mathbb{R}^3$'
     hexagon: https://hexagonmath.org/2610.00667v1
