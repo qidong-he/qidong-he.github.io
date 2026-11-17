@@ -4,6 +4,7 @@ In Feb. 2024, I received a [TA Teaching Excellence Award](https://www.math.rutge
 
 | Semester | Course | Role |
 |:---:|---|---|
+| S27 | MATH 1342 (Calculus 2 for Science and Engineering) | Instructor |
 | F26 | MATH 1342 (Calculus 2 for Science and Engineering) | Instructor (2x) |
 | S25 | 01:640:250 (Introductory Linear Algebra) | TA-at-Large |
 | F24 | 01:640:421 (Advanced Calculus for Engineering) | TA-at-Large |
