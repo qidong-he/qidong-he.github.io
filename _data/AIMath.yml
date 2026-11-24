@@ -1,5 +1,8 @@
 main:
 
+  - title: 'Columnar order in a system of $2\times2\times2$ hard cubes on $\mathbb{Z}^3$'
+    hexagon: https://hexagonmath.org/2611.00973v1
+
   - title: 'Density coexistence for hard spheres with a long-range attractive pair interaction'
     hexagon: https://hexagonmath.org/2610.00734v1
     abstract: 'GPT-6 Astra claims to have proven the existence of a first-order phase transition in a system of hard spheres in the three-dimensional continuum, interacting via an additional finite-range attractive pair interaction, whenever the temperature is suffiently low.'
