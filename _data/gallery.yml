@@ -1,8 +1,8 @@
-- title: 'Discotic columnar phase of a 3D interacting monomer-tetramer model with side-to-side attraction'
+- title: 'Discotic columnar phase of a 3D monomer-tetramer model with side-to-side attraction'
   image: /assets/img/gallery/model_iii.png
   caption: 'Illustrated: Model III of Heilmann–Lieb (1979). See preprint <a href="#preprint-7">[5]</a>'
 
-- title: 'Nematic phase of a 3D interacting monomer-dimer model with lateral attraction'
+- title: 'Nematic phase of a 3D monomer-dimer model with lateral attraction'
   image: /assets/img/gallery/model_v.png
   caption: 'Illustrated: Model V of Heilmann–Lieb (1979). See preprint <a href="#preprint-5">[5]</a>'
 
@@ -16,7 +16,7 @@
   caption: 'Picture by <a href="https://openscholarship.wustl.edu/etd/30/" target="_blank">Barnes (2010)</a> showing metastable phase boundaries. See preprint <a href="#preprint-2">[2]</a>'
   # caption: 'The Z-pentomino admits six distinct tilings of the plane up to translations and rotations, three of which appear as crystal structures in this grand-canonical Monte Carlo simulation by <a href="https://openscholarship.wustl.edu/etd/30/" target="_blank">Barnes (2010)</a>. See preprint <a href="#preprint-2">[2]</a>'
 
-- title: 'Nematic phase of a 2D interacting monomer-dimer model with end-to-end attraction'
+- title: 'Nematic phase of a 2D monomer-dimer model with end-to-end attraction'
   image: /assets/img/gallery/Heilmann-Lieb.png
   caption: 'Illustrated: Model I of Heilmann–Lieb (1979). See preprint <a href="#preprint-1">[1]</a>'
   # caption: 'In 1979, Heilmann and Lieb proposed a model for liquid crystals in which particles are non-intersecting edges of the square lattice, with pair attraction between aligned edges. The model exhibits a low-temperature nematic phase characterized by orientational but no positional order. See preprint <a href="#preprint-1">[1]</a>'
