@@ -3,9 +3,9 @@ main:
   - title: 'Discotic columnar phase in a three-dimensional monomer-tetramer model of Heilmann and Lieb with side-to-side attraction'
     authors: <strong>Qidong He</strong>
     journal: arXiv preprint, 2026
-    # arXiv: https://arxiv.org/abs/2610.11042
-    # abstract: 'We extend the crystallization criteria I developed in <a href="#preprint-2">[2]</a> to hard-core systems subjected to a maximality constraint.'
-
+    arXiv: https://arxiv.org/abs/2611.34796
+    abstract: 'I prove that Model III of Heilmann–Lieb (1979), a three-dimensional lattice model for liquid crystals consisting of disk-like particles, exhibits a discotic columnar phase at low temperatures.'
+    
   - title: 'A general framework for crystallization in maximal hard-core models'
     authors: Alexander Barg, <strong>Qidong He</strong>, Geyang Wang
     journal: arXiv preprint, 2026
@@ -16,7 +16,7 @@ main:
     authors: <strong>Qidong He</strong>
     journal: arXiv preprint, 2026
     arXiv: https://arxiv.org/abs/2610.08600
-    abstract: 'I prove that Models II and V for liquid crystals introduced by Heilmann–Lieb (1979) exhibit nematic order at low temperatures. The treatment of orientational order follows the approach in my recent work on Model I <a href="#preprint-1">[1]</a>, whereas the proof of the absence of translational order relies on the method of cluster swapping (Sheffield, 2005). In fact, the proof works in all dimensions $d\ge 2$.'
+    abstract: 'I prove that Models II and V of Heilmann–Lieb (1979) exhibit nematic order at low temperatures. The treatment of orientational order follows the approach in my recent work on Model I <a href="#preprint-1">[1]</a>, whereas the proof of the absence of translational order relies on the method of cluster swapping (Sheffield, 2005). In fact, the proof works in all dimensions $d\ge 2$.'
     
   - title: 'A new upper bound on the dimer constant of $\mathbb{Z}^3$'
     authors: <strong>Qidong He</strong>
@@ -43,5 +43,5 @@ main:
     journal: arXiv preprint, 2025
     arXiv: https://arxiv.org/abs/2511.23437v3
     image: ./assets/img/dimer_post-transition.png
-    abstract: 'I prove that a two-dimensional model for liquid crystals introduced by Heilmann–Lieb (Model I, 1979) exhibits nematic order over a much larger parameter regime than previously known (Jauslin–Lieb, 2018). The proof relies on the abstract framework of strongly percolating sets developed by Hadas–Peled (2026) in their recent study of the $2\times 2$ hard square model.'
+    abstract: 'I prove that Model I of Heilmann–Lieb (1979), a two-dimensional model for liquid crystals, exhibits nematic order over a much larger parameter regime than previously known (Jauslin–Lieb, 2018). The proof relies on the abstract framework of strongly percolating sets developed by Hadas–Peled (2026) in their recent study of the $2\times 2$ hard square model.'
     
